@@ -1,2 +1,1 @@
-# Git_Demo
-Practicing Git
+Author Name : Sindhu Pallavi Sirra
